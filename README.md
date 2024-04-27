@@ -25,3 +25,8 @@ This is a simple web application built with Python and Flask for downloading You
 - `templates/`: Directory containing the HTML template for the web interface.
 - `videos/`: Directory where downloaded videos are stored.
 
+## Credits
+
+This project was created by [Garv Kamra](https://github.com/Securegarv).
+
+
