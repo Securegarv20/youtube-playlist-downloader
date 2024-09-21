@@ -27,6 +27,6 @@ This is a simple web application built with Python and Flask for downloading You
 
 ## Credits
 
-This project was created by [Garv Kamra](https://github.com/Securegarv).
+This project was created by [Garv Kamra](https://github.com/Securegarv20).
 
 
